@@ -11,4 +11,9 @@ body{
 }
 h2{
     text-align: center;
+    color: darkgreen;
+}
+h3{
+    text-align: right;
+    font-family: fantasy;
 }
